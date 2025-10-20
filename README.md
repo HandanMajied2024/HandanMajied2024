@@ -1,7 +1,6 @@
 UX/UI Designer
 
-Python, C++
-HTML, CSS
+Python, C++, HTML, CSS
 
 Currently focused on frontend developement but looking to collaborate on small projects to improve my backend-skills.
 
