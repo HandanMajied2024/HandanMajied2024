@@ -1,7 +1,9 @@
-interested in robots
-currently learning python, c++, ReTI and Html
-looking to collaborate on small projects to improve
-The cat on my profie pic is called Tuttie and is the best boi 
+UX/UI Designer
+
+Python, C++
+HTML, CSS
+
+Currently focused on frontend developement but looking to collaborate on small projects to improve my backend-skills.
 
 <!---
 HandanMajied2024/HandanMajied2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
